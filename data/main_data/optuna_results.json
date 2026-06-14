@@ -1,0 +1,20 @@
+{
+  "best_cv_f1": 0.5806588684857561,
+  "best_params": {
+    "n_estimators": 1106,
+    "max_depth": 9,
+    "learning_rate": 0.021305425124977895,
+    "subsample": 0.7973989856651471,
+    "colsample_bytree": 0.8376590859884016,
+    "colsample_bylevel": 0.5087484811492282,
+    "min_child_weight": 6,
+    "reg_alpha": 3.6010172644086674e-06,
+    "reg_lambda": 0.17583763675729963,
+    "gamma": 0.4258061383930424,
+    "num_class": 3,
+    "random_state": 42,
+    "n_jobs": -1
+  },
+  "n_features": 96,
+  "n_trials": 100
+}
